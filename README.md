@@ -1,1 +1,1 @@
-https://gromkov-cloud.github.io/git-prac/git-dictionary
+https://gromkov-cloud.github.io/git-prac/dictionary
