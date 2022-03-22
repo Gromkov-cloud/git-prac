@@ -1,2 +1,1 @@
-# git reset HEAD filename
-* - удалит из index файл filename
+1. **git reset HEAD filename** - удалит уже добавленный в index файл filename
